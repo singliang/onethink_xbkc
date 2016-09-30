@@ -1,2 +1,0 @@
-# onethink_xbkc
-基于onethink的中小学校本课程选课系统
